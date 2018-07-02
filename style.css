@@ -373,3 +373,19 @@ body {
     box-sizing: border-box;
     text-align: center;
 }
+.btnConfirm {
+    background-color: #FA0000 !important;
+}
+.btnConfirm {
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    background-color: #ff0000;
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+		text-align: center;
+}
