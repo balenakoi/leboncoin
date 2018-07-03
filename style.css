@@ -107,8 +107,7 @@ header{
 .user
 {
 	float:right;
-	padding-top: 19px;
-  padding-right: 26px;
+	margin-top: 19px;
 }
 p{
   text-align: left;
@@ -137,11 +136,8 @@ p{
 	font-size: 13px;
 	padding: 8px;
 	border-radius: 5px;
-  padding-left: 155px;
+margin-left: 55px;
 }
-
-
-
 .btnConnect:hover
 {
 	background-color:#9cd1f3;
